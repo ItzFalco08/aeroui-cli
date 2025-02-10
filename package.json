@@ -1,6 +1,6 @@
 {
   "name": "@aeroui/cli",
-  "version": "1.2.0",
+  "version": "1.2.1",
   "description": "CLI for the AeroUI component library",
   "main": "index.js",
   "bin": {
