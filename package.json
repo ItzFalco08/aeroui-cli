@@ -1,0 +1,38 @@
+{
+  "name": "@aeroui/cli",
+  "version": "1.2.0",
+  "description": "CLI for the AeroUI component library",
+  "main": "index.js",
+  "bin": {
+    "aeroui": "./index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "aeroui",
+    "cli",
+    "react",
+    "nextjs",
+    "ui-components",
+    "component-library",
+    "design-system",
+    "frontend",
+    "web-development",
+    "typescript",
+    "jsx",
+    "tsx",
+    "tailwind",
+    "shadcn",
+    "chakra-ui",
+    "styled-components"
+  ],
+  "author": "Rupam Das",
+  "license": "ISC",
+  "dependencies": {
+    "commander": "^13.1.0",
+    "fs-extra": "^11.3.0",
+    "inquirer": "^12.4.1",
+    "kleur": "^4.1.5"
+  }
+}
